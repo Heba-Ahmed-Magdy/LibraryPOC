@@ -1,0 +1,31 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Index page";
+}
+
+<div class="text-center font-italic font-weight-bold mb-4"><h2>Books in library</h2></div>
+<table class="table table-striped">
+    <thead>
+    <th>@Html.DisplayNameFor(b => b.books[0].Name)</th>
+    <th>@Html.DisplayNameFor(b => b.books[0].Genre)</th>
+    <th>@Html.DisplayNameFor(b => b.books[0].AuthorName)</th>
+    <th>Actions</th>
+    <thead>
+    </thead>
+    <tbody>
+        @foreach (var book in Model.books)
+        {
+            <tr>
+                <td>@Html.DisplayFor(books => book.Name)</td>
+                <td>@Html.DisplayFor(books => book.Genre)</td>
+                <td>@Html.DisplayFor(books => book.AuthorName)</td>
+                <td>
+                    <a asp-page="Edit" asp-route-Id="@book.Id"><button><i class="fa fa-pencil fa-lg"></i></button></a>
+                    <a asp-page="Remove" asp-route-Id="@book.Id"><button><i class="fa fa-trash fa-lg"></i></button></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

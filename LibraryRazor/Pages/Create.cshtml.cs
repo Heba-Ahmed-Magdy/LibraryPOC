@@ -12,12 +12,19 @@ namespace LibraryRazor
     {
         [BindProperty]
         public Book Book { get; set; }
+        public ApiLibraryClient apiLibraryClient = new ApiLibraryClient();
 
-        public async Task<IActionResult> PostAsync()
+        public void OnGet()
+        {
+
+        }
+
+        public async Task<IActionResult> OnPost()
         {
             if (!ModelState.IsValid)
                 return Page();
-
+            var book=await apiLibraryClient.CreateBook(Book);
+            return RedirectToPage("Index");
 
         }
 

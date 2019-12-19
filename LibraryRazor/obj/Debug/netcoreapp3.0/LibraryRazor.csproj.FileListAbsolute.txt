@@ -1,26 +1,21 @@
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\staticwebassets\LibraryRazor.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\staticwebassets\LibraryRazor.StaticWebAssets.xml
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.AssemblyInfo.cs
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.csprojAssemblyReference.cache
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\staticwebassets\LibraryRazor.StaticWebAssets.Manifest.cache
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\staticwebassets\LibraryRazor.StaticWebAssets.xml
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.RazorAssemblyInfo.cache
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.RazorAssemblyInfo.cs
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.AssemblyInfoInputs.cache
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.AssemblyInfo.cs
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.TagHelpers.input.cache
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.TagHelpers.output.cache
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.RazorCoreGenerate.cache
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.RazorTargetAssemblyInfo.cache
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.RazorTargetAssemblyInfo.cs
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.pdb
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\appsettings.Development.json
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\appsettings.json
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
@@ -40,8 +35,14 @@ C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Mi
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -60,32 +61,6 @@ C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Mi
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Books.API.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Books.API.pdb
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.Views.pdb
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.csproj.CopyComplete
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -94,12 +69,20 @@ C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Mi
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -152,15 +135,33 @@ C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\ru
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Books.API.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\Books.API.pdb
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.TagHelpers.input.cache
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.TagHelpers.output.cache
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.RazorCoreGenerate.cache
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\Create.cshtml.g.cs
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\Edit.cshtml.g.cs
-C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.csprojAssemblyReference.cache
-C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\staticwebassets\LibraryRazor.StaticWebAssets.Manifest.cache
-C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\staticwebassets\LibraryRazor.StaticWebAssets.xml
-C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.RazorAssemblyInfo.cache
-C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.RazorAssemblyInfo.cs
-C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.AssemblyInfoInputs.cache
-C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.AssemblyInfo.cs
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.RazorTargetAssemblyInfo.cache
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.RazorTargetAssemblyInfo.cs
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.Views.pdb
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.csproj.CopyComplete
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.dll
+C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.pdb

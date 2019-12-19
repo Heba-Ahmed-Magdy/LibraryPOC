@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\New folder (16)\\LibraryPOC\\LibraryRazor\\LibraryRazor.csproj": {}
+    "C:\\Users\\heba.magdy\\Desktop\\Temp\\Library\\LibraryRazor\\LibraryRazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\New folder (16)\\LibraryPOC\\Books.API\\Books.API.csproj": {
+    "C:\\Users\\heba.magdy\\Desktop\\Temp\\Library\\Books.API\\Books.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\New folder (16)\\LibraryPOC\\Books.API\\Books.API.csproj",
+        "projectUniqueName": "C:\\Users\\heba.magdy\\Desktop\\Temp\\Library\\Books.API\\Books.API.csproj",
         "projectName": "Books.API",
-        "projectPath": "C:\\Users\\hp\\Desktop\\New folder (16)\\LibraryPOC\\Books.API\\Books.API.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\New folder (16)\\LibraryPOC\\Books.API\\obj\\",
+        "projectPath": "C:\\Users\\heba.magdy\\Desktop\\Temp\\Library\\Books.API\\Books.API.csproj",
+        "packagesPath": "C:\\Users\\heba.magdy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\heba.magdy\\Desktop\\Temp\\Library\\Books.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\heba.magdy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,24 +74,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\hp\\Desktop\\New folder (16)\\LibraryPOC\\LibraryRazor\\LibraryRazor.csproj": {
+    "C:\\Users\\heba.magdy\\Desktop\\Temp\\Library\\LibraryRazor\\LibraryRazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\New folder (16)\\LibraryPOC\\LibraryRazor\\LibraryRazor.csproj",
+        "projectUniqueName": "C:\\Users\\heba.magdy\\Desktop\\Temp\\Library\\LibraryRazor\\LibraryRazor.csproj",
         "projectName": "LibraryRazor",
-        "projectPath": "C:\\Users\\hp\\Desktop\\New folder (16)\\LibraryPOC\\LibraryRazor\\LibraryRazor.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\New folder (16)\\LibraryPOC\\LibraryRazor\\obj\\",
+        "projectPath": "C:\\Users\\heba.magdy\\Desktop\\Temp\\Library\\LibraryRazor\\LibraryRazor.csproj",
+        "packagesPath": "C:\\Users\\heba.magdy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\heba.magdy\\Desktop\\Temp\\Library\\LibraryRazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\heba.magdy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,8 +104,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\hp\\Desktop\\New folder (16)\\LibraryPOC\\Books.API\\Books.API.csproj": {
-                "projectPath": "C:\\Users\\hp\\Desktop\\New folder (16)\\LibraryPOC\\Books.API\\Books.API.csproj"
+              "C:\\Users\\heba.magdy\\Desktop\\Temp\\Library\\Books.API\\Books.API.csproj": {
+                "projectPath": "C:\\Users\\heba.magdy\\Desktop\\Temp\\Library\\Books.API\\Books.API.csproj"
               }
             }
           }
@@ -174,7 +174,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

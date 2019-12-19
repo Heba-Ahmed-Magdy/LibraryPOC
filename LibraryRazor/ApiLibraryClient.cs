@@ -45,6 +45,14 @@ namespace LibraryRazor
              book = JsonConvert.DeserializeObject<Book>(content);
             return book;
         }
+        public async Task<Book> UpdateBook(Book book)
+        {
+            var response = await _httpClient.PostAsync("api/books/update",
+                                    new StringContent(JsonConvert.SerializeObject(book), Encoding.UTF8, "application/json"));
+            var content = await response.Content.ReadAsStringAsync();
+             book = JsonConvert.DeserializeObject<Book>(content);
+            return book;
+        }
 
         #endregion
 

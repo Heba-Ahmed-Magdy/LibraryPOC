@@ -155,3 +155,12 @@ C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\bin\Debug\netcoreapp3.0\zh
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\heba.magdy\Desktop\Temp\Library\LibraryRazor\obj\Debug\netcoreapp3.0\Razor\Pages\Edit.cshtml.g.cs
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\staticwebassets\LibraryRazor.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\staticwebassets\LibraryRazor.StaticWebAssets.xml
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\New folder (16)\LibraryPOC\LibraryRazor\obj\Debug\netcoreapp3.0\LibraryRazor.AssemblyInfo.cs

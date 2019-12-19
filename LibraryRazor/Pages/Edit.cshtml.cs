@@ -9,7 +9,7 @@ namespace LibraryRazor.Pages.Shared
 {
     public class EditModel : PageModel
     {
-        public void OnGet()
+        public void OnGet(int Id)
         {
 
         }

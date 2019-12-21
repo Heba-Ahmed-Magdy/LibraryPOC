@@ -54,6 +54,11 @@ namespace LibraryRazor
             return book;
         }
 
+        public async Task RemoveBook(int id)
+        {
+            var response = await _httpClient.DeleteAsync($"api/books/remove/{id}");
+        }
+
         #endregion
 
     }

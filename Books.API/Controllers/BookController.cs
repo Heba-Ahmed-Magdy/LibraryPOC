@@ -46,11 +46,12 @@ namespace Books.API.Controllers
             context.SaveChanges();
             return Ok(book);
         }
-        [HttpGet("remove/{id:int}")]
+        [HttpDelete("remove/{id:int}")]
         public IActionResult Remove(int id)
         {
             var book = context.Books.Find(id);
             context.Books.Remove(book);
+            context.SaveChanges();
             return Ok();
         }
         [HttpPost("update")]
